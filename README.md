@@ -34,15 +34,20 @@ The chatbot provides detailed information on various aspects of mangroves:
 
 ## 📖 Data Sources
 
-The chatbot's knowledge base is built upon carefully selected scientific and educational documents about mangroves, including:
+The chatbot's knowledge base is built upon two key scientific papers that provide comprehensive coverage of mangrove ecosystems:
 
-- **Scientific Research Papers**: Peer-reviewed studies on mangrove ecosystems, their functions, and conservation
-- **Educational Materials**: Comprehensive guides and documentation about mangrove biology and ecology
-- **Conservation Reports**: Information about mangrove protection efforts and restoration projects
+1. Feller, I. C., Lovelock, C. E., Berger, U., McKee, K. L., Joye, S. B., & Ball, M. C. (2010). Biocomplexity in Mangrove Ecosystems. *Annual Review of Marine Science*, 2, 395-417. https://doi.org/10.1146/annurev.marine.010908.163809
+   - This paper provides a comprehensive review of the complex biological and ecological interactions within mangrove ecosystems.
 
-The current knowledge base includes documents such as:
-- Lee (1995) - A foundational study on mangrove ecosystems
-- Various educational PDFs providing detailed information about mangrove conservation and ecology
+2. Lee, S. Y. (1995). Mangrove outwelling: a review. *Hydrobiologia*, 295, 203-212.
+   - This foundational study focuses on the role of mangroves in nutrient cycling and their contribution to adjacent ecosystems.
+
+The selection of these two documents was carefully made to:
+- Provide high-quality, peer-reviewed scientific information
+- Cover complementary aspects of mangrove ecosystems (biological complexity and nutrient dynamics)
+- Stay within the token limits of the Cohere API while maintaining comprehensive coverage
+
+Note: The `purple_elephant.pdf` file in the data directory is used solely for testing the RAG pipeline functionality and does not contain mangrove-related content.
 
 These documents are processed and indexed to provide accurate, science-based responses to user queries.
 
