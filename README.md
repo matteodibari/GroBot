@@ -46,7 +46,7 @@ The current knowledge base includes documents such as:
 
 These documents are processed and indexed to provide accurate, science-based responses to user queries.
 
-## ��️ Technical Stack
+## Technical Stack
 
 ### Backend
 - Python 3.8+
