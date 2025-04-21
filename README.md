@@ -1,4 +1,4 @@
-# LongevAI RAG Chatbot
+# GroBot, a RAG-based Chatbot
 
 An informative and educational chatbot specifically designed to provide comprehensive knowledge about mangroves - their ecological significance, environmental benefits, and global importance. This specialized chatbot serves as an interactive learning tool to educate users about mangrove ecosystems, their role in climate change mitigation, biodiversity conservation, and coastal protection.
 
@@ -51,7 +51,7 @@ Note: The `purple_elephant.pdf` file in the data directory is used solely for te
 
 These documents are processed and indexed to provide accurate, science-based responses to user queries.
 
-## ��️ Technical Stack
+## Technical Stack
 
 ### Backend
 - Python 3.8+
